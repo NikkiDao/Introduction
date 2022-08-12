@@ -15,11 +15,12 @@ Although I am wary that the language in literature is different than in code, as
 
 # More About Me
 
-<br:pencil2: Check out a Kickstarter Project where I'm a former co-founder and author of an illustrated of children’ stories with a dark twist at [@BedtimeBeforeFive](https://www.instagram.com/bedtimebeforefive/?hl=en) or search us up at [Webcomic](https://tapas.io/episode/1442675), where my author name is known as Niki Pfirsich/>
-<br:eyeglasses: I’m currently enrolled in Big Data of Data Engineering bootcamp from UCI, expected completion in April 2023!/>
-<br:ramen: Ask me about my favorite recipes/>
-<br📫 Reach me at www.linkedin.com/in/nikki-dao/>
-<br:minibus: Fun fact: I love my minivan, her name is Mimivan />
+<br :pencil2: Check out a Kickstarter Project where I'm a former co-founder and author of an illustrated of children’ stories with a dark twist at [@BedtimeBeforeFive](https://www.instagram.com/bedtimebeforefive/?hl=en) or search us up at [Webcomic](https://tapas.io/episode/1442675), where my author name is known as Niki Pfirsich />
+
+<br :eyeglasses: I’m currently enrolled in Big Data of Data Engineering bootcamp from UCI, expected completion in April 2023! />
+<br :ramen: Ask me about my favorite recipes />
+<br 📫 Reach me at www.linkedin.com/in/nikki-dao />
+<br :minibus: Fun fact: I love my minivan, her name is Mimivan />
 
 
 (In case you wonder how I inserted emojis as markdown) [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
