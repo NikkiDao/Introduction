@@ -19,7 +19,7 @@ Although I am wary that the language in literature is different than in code, as
 
 :eyeglasses: I’m currently enrolled in Big Data of Data Engineering bootcamp from UCI, expected completion in April 2023!
 
-:ramen: Ask me about my favorite recipes
+:snake: Ask me about my favorite coding language!
 
 📫 Reach me at www.linkedin.com/in/nikki-dao
 
