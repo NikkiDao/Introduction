@@ -17,9 +17,9 @@ Although I am wary that the language in literature is different than in code, as
 <summary> More About Me</summary>
 
 <br>
-:pencil2: Check out a Kickstarter Project where I'm a former co-founder and author of an illustrated of children’ stories with a dark twist at:<br/>
+:pencil2: Check out a Kickstarter Project where I'm a former co-founder and author of an illustrated of children’ stories with a dark twist, at:<br/>
  [Instagram] https://www.instagram.com/bedtimebeforefive/?hl=en)<br/>
- [Webcomic]https://tapas.io/episode/1442675, where my author name is known as Niki Pfirsich<br/>
+ [Webcomic] https://tapas.io/episode/1442675<br/>
 :eyeglasses: I’m currently enrolled in Big Data of Data Engineering bootcamp from UCI, expected completion in April 2023!<br/>
 :snake: Ask me about my favorite coding language!<br/>
 📫 Reach me at www.linkedin.com/in/nikki-dao<br/>
