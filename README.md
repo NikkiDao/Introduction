@@ -14,16 +14,14 @@ Although I am wary that the language in literature is different than in code, as
 -	Deployment: AWS platform, Microsoft Azure Databricks
 
 <details open>
-<summary>## More About Me</summary>
+<summary> ## More About Me</summary>
 
-
-<summary>Want to ruin the surprise?</summary>
 <br>
-:pencil2: Check out a Kickstarter Project where I'm a former co-founder and author of an illustrated of children’ stories with a dark twist at [@BedtimeBeforeFive](https://www.instagram.com/bedtimebeforefive/?hl=en) or search us up at [Webcomic](https://tapas.io/episode/1442675), where my author name is known as Niki Pfirsich\ 
-:eyeglasses: I’m currently enrolled in Big Data of Data Engineering bootcamp from UCI, expected completion in April 2023!\
-:snake: Ask me about my favorite coding language!\
-📫 Reach me at www.linkedin.com/in/nikki-dao\
-:minibus: Fun fact: I love my minivan, her name is Mimivan\
+:pencil2: Check out a Kickstarter Project where I'm a former co-founder and author of an illustrated of children’ stories with a dark twist at [@BedtimeBeforeFive](https://www.instagram.com/bedtimebeforefive/?hl=en) or search us up at [Webcomic](https://tapas.io/episode/1442675), where my author name is known as Niki Pfirsich \ 
+:eyeglasses: I’m currently enrolled in Big Data of Data Engineering bootcamp from UCI, expected completion in April 2023! \
+:snake: Ask me about my favorite coding language! \
+📫 Reach me at www.linkedin.com/in/nikki-dao \
+:minibus: Fun fact: I love my minivan, her name is Mimivan \
 
 (In case you wonder how I inserted emojis as markdown) [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 </details>
