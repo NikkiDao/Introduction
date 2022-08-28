@@ -2,7 +2,7 @@
 
 A novice writer and data enthusiast. Trained in Excel, ERP systems, Python, SQL, JavaScript, Tableau, and Machine Learning.  Analytical thinker with ETL ability to mine hidden gems located within rich data sets. Capable of translating data analysis into insightful narratives that guide us in the decision-making process.  Aspire to write stories of life as well as meaningful scripts. 
 
-Although I am wary that the language in literature is different than in code, as well as the mental processes for each is different and specific to the task, it is still indeed fascinating whenever literature and technology converge.  One of my favorite explanations of the way HTML, CSS, and JavaScript work together is to think of HTML as the noun, CSS as the adjective, and JavaScript as the verb. 
+Although the language in literature is different than in code, as well as the mental processes for each is different and specific to the task, it is still indeed fascinating whenever literature and technology converge.  One of my favorite explanations of the way HTML, CSS, and JavaScript work together is to think of HTML as the noun, CSS as the adjective, and JavaScript as the verb. 
 
 ## Skills 
 
