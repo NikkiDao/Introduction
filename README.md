@@ -1,8 +1,10 @@
 ## Introduction 
 
-A novice writer and data enthusiast. Trained in Excel, ERP systems, Python, SQL, JavaScript, Tableau, and Machine Learning.  Analytical thinker with ETL ability to mine hidden gems located within rich data sets. Capable of translating data analysis into insightful narratives that guide us in the decision-making process.  Aspire to write stories of life as well as meaningful scripts. 
+A novice writer of short stories/science fictions, and data enthusiast with a background in International Business, with 3 years’ experience in Supply Chain data management. Certified in Excel, Python, SQL, MongoDB, R, and Machine Learning by UC, Irvine. Seeking to leverage technical and creative capabilities to add value in company’s decisions making process, using big data analytical solutions.
 
-Although the language in literature is different than in code, as well as the mental processes for each is different and specific to the task, it is still indeed fascinating whenever literature and technology converge.  One of my favorite explanations of the way HTML, CSS, and JavaScript work together is to think of HTML as the noun, CSS as the adjective, and JavaScript as the verb. 
+Ability to converge literature and statistics, by translating data analysis into easily consumable text. Mindfully provide unbiased narration and interpretation of the data, utilizing EDA approach with intuitive visualization tools such as Tableau, Python Plotly Express, Seaborn, and Matplotlib, to present to technical and non-technical personnel. Capable of creating web-based interactive dashboard for measure and monitor purposes, using Plotly and Leaflet interactive maps in JavaScript.
+
+Strong understanding in ETL process, data warehousing, and cloud solutions. Familiar with AWS, DataBricks and PySpark. Expecting to be certified in Data Engineering by April 2023. Aspire to write amusing stories of life as well as useful coding scripts. 
 
 ## Skills 
 
