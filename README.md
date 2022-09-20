@@ -1,6 +1,6 @@
 ## Introduction 
 
-A novice writer of short stories/science fictions, and data enthusiast with a background in International Business, with 3 years’ experience in Supply Chain data management. Certified in Excel, Python, SQL, MongoDB, R, and Machine Learning by UC, Irvine. Seeking to leverage technical and creative capabilities to add value in company’s decisions making process, using big data analytical solutions.
+A novice writer of short stories/science fictions, and data enthusiast with a background in International Business, with 3 years’ experience in Supply Chain data management. Certified in Data Analytics and Visualizations by UC, Irvine. Seeking to leverage technical and creative capabilities to add value in company’s decisions making process, using big data analytical solutions.
 
 Ability to converge literature and statistics, by translating data analysis into easily consumable text. Mindfully provide unbiased narration and interpretation of the data, utilizing EDA approach with intuitive visualization tools such as Tableau, Python Plotly Express, Seaborn, and Matplotlib, to present to technical and non-technical personnel. Capable of creating web-based interactive dashboard for measure and monitor purposes, using Plotly and Leaflet interactive maps in JavaScript.
 
