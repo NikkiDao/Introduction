@@ -25,6 +25,6 @@ Strong understanding in ETL process, data warehousing, and cloud solutions. Fami
 :eyeglasses: I’m currently enrolled in Big Data of Data Engineering bootcamp from UCI, expected completion in April 2023!<br/>
 :snake: Ask me about my favorite coding language!<br/>
 📫 Reach me at www.linkedin.com/in/nikki-dao<br/>
-:minibus: Fun fact: I wrote under the pseudonym of Niki Pfirsich <br/>
+🖋️: Fun fact: I wrote under the pseudonym of Niki Pfirsich <br/>
 </details>
  
