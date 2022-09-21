@@ -19,7 +19,7 @@ Strong understanding in ETL process, data warehousing, and cloud solutions. Fami
 <summary> More About Me</summary>
 
 <br>
-:pencil2: Check out a Kickstarter Project where I'm a former co-founder and author of an illustrated of children’ stories with a dark twist, at:<br/>
+:pencil2: Check out a Kickstarter Project where I'm a former co-founder/author of an anthology of children’ gothic fantasy short stories, at:<br/>
 - [Instagram] https://www.instagram.com/bedtimebeforefive/?hl=en)<br/>
 - [Webcomic] https://tapas.io/episode/1442675<br/>
 :eyeglasses: I’m currently enrolled in Big Data of Data Engineering bootcamp from UCI, expected completion in April 2023!<br/>
