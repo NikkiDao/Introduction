@@ -10,7 +10,7 @@ Ability to consolidate data into logical query-able schema using SQL extract, jo
 ## Skills 
 
 -	Languages: Python, SQL, JavaScript, R, English, Vietnamese, Chinese (Mandarin)
--	Data Visualization: Tableau, Plot.ly, Leaflet GeoMapping, Matplotlib, Seaborn, Excel, PowerPoint
+-	Data Visualization: Tableau, Plot.ly, Leaflet GeoMapping, Matplotlib, Seaborn, Excel
 -	Web Development/ Scraping: JavaScript, HTML, CSS, bootstrap, Beautiful Soup, Rendering Flask, APIs call
 -	Machine Learning: Python Scikit-learn, Supervised, Unsupervised, Bayes Theorem
 -	Data Warehouse/ETL:  Hadoop, Spark, PostgreSQL, Scala
