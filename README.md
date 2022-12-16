@@ -23,7 +23,6 @@ Able to consolidate data into logical query-able schema as well as performing SQ
 :pencil2: Check out a Kickstarter Project where I'm a former co-founder/author of an anthology of children’ gothic fantasy short stories, at:<br/>
 - [Instagram] https://www.instagram.com/bedtimebeforefive/?hl=en)<br/>
 - [Webcomic] https://tapas.io/episode/1442675<br/>
-:eyeglasses: I’m currently enrolled in Big Data of Data Engineering bootcamp from UCI, expected completion in April 2023!<br/>
 :snake: Ask me about my favorite coding language!<br/>
 📫 Reach me at www.linkedin.com/in/nikki-dao<br/>
 🖋️ Fun fact - I wrote under the pseudonym of Niki Pfirsich <br/>
