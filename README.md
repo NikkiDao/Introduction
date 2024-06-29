@@ -1,7 +1,7 @@
 ## Introduction 
 
 
-A data enthusiast with a background in Writing and International Business, with 3 years’ experience in Supply Chain data management. Certified in Data Analytics and Visualizations. Seeking to leverage technical and creative capabilities to add value using big data analytic solutions.
+A data enthusiast with a background in Writing and International Business, with 7 years’ experience in Supply Chain data management. Certified in Data Analytics and Visualizations. A current candidate at Cornell University for Master of Science in Business Analytics (2025). Seeking to leverage technical and creative capabilities to add value using big data analytic solutions.
 
 Ability to utilize literature approach in statistics by translating data analysis into easily consumable text. Mindfully provide unbiased narration and interpretation of the data, utilizing EDA approach with intuitive visualization tools such as Tableau, Python Plotly Express, Seaborn, and Matplotlib, to present to technical and non-technical personnel. Capable of creating web-based interactive dashboard and interactive maps using Plotly and Leaflet in JavaScript, for easy measure and monitor purposes.
 
